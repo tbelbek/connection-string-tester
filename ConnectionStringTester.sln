@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VTTestConnectionString", "VTTestConnectionString\VTTestConnectionString.csproj", "{ABB92EEC-5681-4AA3-9D38-A3140512FF7E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectionStringTester", "ConnectionStringTester\ConnectionStringTester.csproj", "{ABB92EEC-5681-4AA3-9D38-A3140512FF7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
